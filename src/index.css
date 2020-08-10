@@ -85,7 +85,7 @@ label:hover{
   /* padding controls height, will always be perfectly square regardless of width */
   position: relative;
   opacity: 0.8;
-  transition: 0.2s ease-in;
+  transition: border 0.2s ease-in;
   border: 2px solid white;
 }
 .img-wrap img{
@@ -100,7 +100,7 @@ label:hover{
 }
 
 .img-wrap:hover{
-  border:2px solid var(--error);
+  border:2px solid var(--primary);
 
 }
 
