@@ -29,10 +29,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   
 
-  <h3 align="center">Firegram/h3>
+  <h3 align="center">Firegram</h3>
 
   <p align="center">
     Um projeto de Upload de imagens Firebase
@@ -50,16 +50,12 @@
 ## Conteúdos
 
 * [Sobre o projeto](#sobre-o-projeto)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
+  * [Construido com](#construido-com)
+* [Colocando a mão na massa](#colocando-a-mão-na-massa)
+  * [Prerequisitos](#prerequisitos)
+* [Contribuindo](#contribuindo)
 * [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Contato](#contato)
 
 
 
@@ -91,7 +87,7 @@ Antes de tudo faça o download do repositório para sua máquina.
 
 ### Prerequisitos
 
-PAra começarmos é preciso que você possua o node instalado em sua máquina, caso não tenha execute o comando abaixo.
+Para começarmos é preciso que você possua o node instalado em sua máquina, caso não tenha execute o comando abaixo.
 * npm
 ```sh
 npm install npm@latest -g
@@ -139,9 +135,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contato
 
-Matheus Augusto Simões - [@your_twitter](https://www.linkedin.com/in/matheus-simões/) - matheusaugustosimoes@hotmail.com
+Matheus Augusto Simões - [@dinamous](https://www.linkedin.com/in/matheus-simões/) - matheusaugustosimoes@hotmail.com
 
-Meu perfil do Github: [https://github.com/your_username/repo_name](https://github.com/Dinamous)
+Meu perfil do Github: [github.com/Dinamous](https://github.com/Dinamous)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
